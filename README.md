@@ -1,4 +1,3 @@
-# b1: git clone https://github.com/tongnt1025/demo_pj/
 # Từ thư mục gốc dự án chạy các lệnh 
 # b2: docker-compose up -d
 # b3: docker exec -it laravel_app cp .env.example .env
